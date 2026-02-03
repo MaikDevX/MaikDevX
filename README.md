@@ -39,5 +39,5 @@ In meiner Zeit als **Pro-Gamer in der ESL Pro Series** habe ich gelernt, dass Er
 
 ### 📫 Kontakt
 - 🌍 **Portfolio:** [maikdevx.github.io](https://maikdevx.github.io)
-- 💼 **LinkedIn:** In Bearbeitung!
+- 💼 **LinkedIn:** In Bearbeitung.
 - 📧 **Email:** [maik.drissen@proton.me](mailto:maik.drissen@proton.me)
