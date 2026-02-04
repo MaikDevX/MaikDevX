@@ -6,7 +6,7 @@ Ich befinde mich derzeit in der Zielgeraden meiner Umschulung zum Fachinformatik
 ---
 
 ### 🚀 Was ich gerade mache
-- 🎓 **Umschulung:** Fachinformatiker für Anwendungsentwicklung (Abschluss 2026) @ Elements of Arts (EOA):** Ich baue High-Performance Web-Apps mit **.NET 10, Astro und Blazor**.
+- 🎓 **Umschulung:** Fachinformatiker für Anwendungsentwicklung (Abschluss 2026) @ Elements of Arts (EOA):**
 - 📱 **Side Projects:** Experimente mit **Flutter** und Cross-Platform Development.
 
 ---
