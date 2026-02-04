@@ -30,12 +30,6 @@ In meiner Zeit als **Pro-Gamer in der ESL** habe ich gelernt, dass Erfolg das Er
 
 ---
 
-### 📊 GitHub Stats
-![Maik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikDevX&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikDevX&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Kontakt
 - 💼 **LinkedIn:** In Bearbeitung.
 - 📧 **Email:** [maik.drissen@proton.me](mailto:maik.drissen@proton.me)
