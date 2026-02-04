@@ -1,6 +1,6 @@
 # Hi there, I'm Maik! 👋
 
-### 👨‍💻 Fokus auf .NET, Astro & Blazor | Tech Enthusiast | Ex-Pro Gamer (ESL)
+### 👨‍💻 Fullstack Developer (Junior) | .NET, Web & Mobile Engineering | Adaptive Generalist with a Pro-Gaming Background
 
 Ich befinde mich derzeit in der Zielgeraden meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung und sammle bei der Agentur Elements of Arts (EOA) tiefgehende praktische Projekterfahrung. Aktuell liegt mein technologischer Schwerpunkt auf dem Microsoft-Ökosystem (.NET) und performanten Frontend-Lösungen mit Astro und Blazor.
 
