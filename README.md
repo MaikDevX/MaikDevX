@@ -31,5 +31,5 @@ In meiner Zeit als **Pro-Gamer in der ESL** habe ich gelernt, dass Erfolg das Er
 ---
 
 ### 📫 Kontakt
-- 💼 **LinkedIn:** In Bearbeitung.
+- 💼 **LinkedIn:** [Maik Drissen](www.linkedin.com/in/maik-drissen)
 - 📧 **Email:** [maik.drissen@proton.me](mailto:maik.drissen@proton.me)
