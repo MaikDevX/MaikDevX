@@ -1,6 +1,6 @@
 # Hi there, I'm Maik! 👋
 
-### 👨‍💻 .NET & Web Developer | Ex-Pro Gamer (ESL) | Tech Enthusiast
+### 👨‍💻 Fokus auf .NET, Astro & Blazor | Tech Enthusiast | Ex-Pro Gamer (ESL)
 
 Ich befinde mich derzeit in der Transformation vom professionellen Strategen im E-Sport zum Software-Ingenieur mit Fokus auf das Microsoft-Ökosystem und moderne Web-Technologien.
 
