@@ -7,8 +7,7 @@ Ich befinde mich derzeit in der Transformation vom professionellen Strategen im 
 ---
 
 ### 🚀 Was ich gerade mache
-- 🛠️ **Praktikum @ Elements of Arts (EOA):** Ich baue High-Performance Web-Apps mit **.NET 10, Astro und Blazor**.
-- 🎓 **Umschulung:** Fachinformatiker für Anwendungsentwicklung (Abschluss 2026).
+- 🎓 **Umschulung:** Fachinformatiker für Anwendungsentwicklung (Abschluss 2026) @ Elements of Arts (EOA):** Ich baue High-Performance Web-Apps mit **.NET 10, Astro und Blazor**.
 - 📱 **Side Projects:** Experimente mit **Flutter** und Cross-Platform Development.
 
 ---
@@ -24,7 +23,7 @@ Ich befinde mich derzeit in der Transformation vom professionellen Strategen im 
 ---
 
 ### 🎮 Die E-Sport Verbindung
-In meiner Zeit als **Pro-Gamer in der ESL Pro Series** habe ich gelernt, dass Erfolg das Ergebnis von Analyse, Millisekunden-Entscheidungen und extremer Team-Disziplin ist. Diese "High-Performance-Mentalität" bringe ich heute in jedes Software-Projekt ein:
+In meiner Zeit als **Pro-Gamer in der ESL** habe ich gelernt, dass Erfolg das Ergebnis von Analyse, Millisekunden-Entscheidungen und extremer Team-Disziplin ist. Diese "High-Performance-Mentalität" bringe ich heute in jedes Software-Projekt ein:
 - **Strategie:** Systemarchitektur statt nur Code.
 - **Kommunikation:** Klarheit in agilen Sprints.
 - **Resilienz:** Debugging unter Zeitdruck ist für mich wie ein Final-Match.
@@ -38,6 +37,5 @@ In meiner Zeit als **Pro-Gamer in der ESL Pro Series** habe ich gelernt, dass Er
 ---
 
 ### 📫 Kontakt
-- 🌍 **Portfolio:** [maikdevx.github.io](https://maikdevx.github.io)
 - 💼 **LinkedIn:** In Bearbeitung.
 - 📧 **Email:** [maik.drissen@proton.me](mailto:maik.drissen@proton.me)
