@@ -1,32 +1,23 @@
 # Hi there, I'm Maik! 👋
 
-### 👨‍💻 .NET Developer | C# · .NET 10 · Azure · Blazor | Cloud‑Native Architectures
+### 👨‍💻 .NET Developer | .NET 10 · C# · Azure · Blazor - open to various tech stacks
 
-I'm currently completing my training as an Application Developer (graduating August 2026) and gaining hands‑on project experience at the digital agency **Elements of Arts (EOA)**.  
-My focus lies in the Microsoft ecosystem (.NET, C#, Blazor) and in building high‑performance web applications using modern frameworks like Astro.
-
-I bring a structured, analytical and resilient mindset to software engineering — shaped by my years as a professional E‑Sports athlete.
+I am a Junior Software Developer passionate about web engineering, robust backend APIs, and efficient data processing systems. 
+I focus on writing clean, maintainable, and highly resilient code to solve real-world business problems.
 
 ---
 
-### 🚀 What I'm currently working on
+### 🚀 What I am currently working on or have worked on
 
-- 🎓 **Training:** Application Development (Graduating 2026) @ **Elements of Arts (EOA)**
-- 🛠️ **Main Project:** Cloud‑ready HR Data Synchronization Engine (Sage HR ↔ MOCO) using .NET 10, Worker Services & Azure
-- 📱 **Side Projects:** Exploring **Flutter** and cross‑platform development
+- An enterprise-grade, unidirectional synchronization middleware designed to transfer employee and absence data between Sage HR and MOCO APIs.
+Core Concepts:
+REST APIs, Clean Architecture, Polly Resilience Patterns (Retry/Circuit-Breaker), Windows Background Services.
+Impact: Fully automated manual HR processes at elements of art GmbH, reducing administrative overhead by over 10 hours per month with a verified production error rate of 0%.
 
----
 
-### ☁️ Cloud & DevOps
-
-- Azure App Service  
-- Azure Functions  
-- Azure Storage  
-- Azure Key Vault  
-- Application Insights  
-- GitHub Actions  
-- Azure DevOps  
-- Docker  
+- A lightning-fast, fully responsive, and highly accessible marketing landing page built using Astro's Island Architecture to minimize client-side JavaScript execution.
+Core Concepts: Astro, TypeScript, Tailwind CSS, WCAG 2.2 / BITV 2.0 Compliance (Accessibility).
+Impact: Achieved a perfect 100/100 Google Lighthouse score in Performance, SEO, and Accessibility.
 
 ---
 
