@@ -1,6 +1,6 @@
 # Hi there, I'm Maik! 👋
 
-### 👨‍💻 .NET Developer | .NET 10 · C# · Azure · Blazor - open to various tech stacks
+### 👨‍💻 Junior Software Developer | Web & Full-Stack | C# · .NET 10 · Blazor · Astro – open to various tech stacks
 
 I am a Junior Software Developer passionate about web engineering, robust backend APIs, and efficient data processing systems. 
 I focus on writing clean, maintainable, and highly resilient code to solve real-world business problems.
