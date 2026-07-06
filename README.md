@@ -9,15 +9,23 @@ I focus on writing clean, maintainable, and highly resilient code to solve real-
 
 ### 🚀 What I am currently working on or have worked on
 
-- An enterprise-grade, unidirectional synchronization middleware designed to transfer employee and absence data between Sage HR and MOCO APIs.
+# Enterprise-Grade HR Synchronization Middleware
+An enterprise-grade, unidirectional synchronization middleware designed to transfer employee and absence data between Sage HR and MOCO APIs.
+
 Core Concepts:
 REST APIs, Clean Architecture, Polly Resilience Patterns (Retry/Circuit-Breaker), Windows Background Services.
-Impact: Fully automated manual HR processes at elements of art GmbH, reducing administrative overhead by over 10 hours per month with a verified production error rate of 0%.
 
+Impact:
+Fully automated manual HR processes at elements of art GmbH, reducing administrative overhead by over 10 hours per month with a verified production error rate of 0%.
 
-- A lightning-fast, fully responsive, and highly accessible marketing landing page built using Astro's Island Architecture to minimize client-side JavaScript execution.
-Core Concepts: Astro, TypeScript, Tailwind CSS, WCAG 2.2 / BITV 2.0 Compliance (Accessibility).
-Impact: Achieved a perfect 100/100 Google Lighthouse score in Performance, SEO, and Accessibility.
+# Marketing One-Pager
+A high-performance, static marketing landing page for Pom-Bear built with Astro’s Island Architecture to deliver optimal loading speed and minimal client-side JavaScript.
+
+Core Concepts:
+Astro, TypeScript, Island Architecture, Static Site Generation, Mobile-First Design.
+
+Impact:
+Modern, SEO-optimized and performance-first marketing website with strong focus on Core Web Vitals and excellent user experience.
 
 ---
 
