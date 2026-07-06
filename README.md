@@ -9,7 +9,7 @@ I focus on writing clean, maintainable, and highly resilient code to solve real-
 
 ### 🚀 What I am currently working on or have worked on
 
-# Enterprise-Grade HR Synchronization Middleware
+### Enterprise-Grade HR Synchronization Middleware
 An enterprise-grade, unidirectional synchronization middleware designed to transfer employee and absence data between Sage HR and MOCO APIs.
 
 Core Concepts:
@@ -18,7 +18,7 @@ REST APIs, Clean Architecture, Polly Resilience Patterns (Retry/Circuit-Breaker)
 Impact:
 Fully automated manual HR processes at elements of art GmbH, reducing administrative overhead by over 10 hours per month with a verified production error rate of 0%.
 
-# Marketing One-Pager
+### Marketing One-Pager
 A high-performance, static marketing landing page for Pom-Bear built with Astro’s Island Architecture to deliver optimal loading speed and minimal client-side JavaScript.
 
 Core Concepts:
